@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.A. in GitHub, GitHub University, 2025
+* B.A. in CS, Columbia University, 2025
 
 Work experience
 ======
